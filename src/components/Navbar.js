@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import {Link} from 'react-router-dom';
 import './Navbar.css';
+import ecusson from '../ecusson.png';
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -11,7 +12,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-        LOGO
+        <img src={ecusson} className="image1" alt="ecusson" />
         </Link>
         <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -44,7 +45,7 @@ function Navbar() {
                         className='nav-links'
                         onClick={closeMobileMenu}
                       >
-                        Itineraires & Hebergements
+                        Itinéraires & Hébergements
                       </Link>
                     </li>
 
@@ -54,7 +55,7 @@ function Navbar() {
                           className='nav-links'
                           onClick={closeMobileMenu}
                         >
-                          A faire dans la region
+                          À faire dans la région
                         </Link>
                       </li>
 
@@ -84,7 +85,7 @@ function Navbar() {
                           className='nav-links'
                           onClick={closeMobileMenu}
                         >
-                          Photos & Videos
+                          Photos & Vidéos
                         </Link>
                       </li>
                </ul>

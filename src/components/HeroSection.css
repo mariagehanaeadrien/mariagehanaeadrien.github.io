@@ -18,10 +18,30 @@ img {
   object-fit: contain;
 }
 
+
+
+ @font-face {
+    font-family: hanae;
+    src: url("../hanae/MrsEavesPetiteCaps.woff2");
+}
+
+@font-face {
+   font-family: hanae_ital;
+   src: url("../hanae_ital/MrsEaves-Italic.woff2");
+}
+
 .hero-container > h1 {
-  color: #fff;
+  color: #000;
   font-size: 100px;
-  margin-top: 700px;
+  margin-top: 600px;
+  font-family: 'Humble', sans-serif;
+}
+
+.hero-container > h2 {
+  color: #000;
+  font-size: 40px;
+  margin-top: 0px;
+  font-family: 'hanae' /* 'MrsEavesAllSmallCapsOT'; /*'Humble', sans-serif;*/
 }
 
 .hero-container > p {

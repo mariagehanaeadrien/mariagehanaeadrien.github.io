@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MrsEavesPetiteCaps';
+    src: url('MrsEavesPetiteCaps.woff2') format('woff2'),
+        url('MrsEavesPetiteCaps.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

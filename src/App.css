@@ -1,9 +1,22 @@
+@font-face {
+   font-family: hanae;
+   src: url("hanae/MrsEavesPetiteCaps.woff2");
+}
+
+@font-face {
+  font-family: hanae_ital;
+  src: url("hanae_ital/MrsEaves-Italic.woff2");
+}
+
+
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'hanae', sans-serif;
 }
+
 
 .home,
 .services,

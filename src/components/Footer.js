@@ -11,7 +11,7 @@ function Footer() {
         <div className='social-media-wrap'>
             <div className='footer-logo'>
               <Link to='/' className='social-logo'>
-              LOGO
+              
               </Link>
             </div>
 
