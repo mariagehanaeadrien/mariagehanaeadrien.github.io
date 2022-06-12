@@ -8,6 +8,11 @@
   src: url("hanae_ital/MrsEaves-Italic.woff2");
 }
 
+@font-face {
+  font-family: hanae_humble;
+  src: url("humble/Humble.woff2");
+}
+
 
 
 * {

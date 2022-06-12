@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Humble';
+    src: url('Humble.woff2') format('woff2'),
+        url('Humble.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

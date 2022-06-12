@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=I2UBjN5ER4s&t=688s&ab_channel=BrianDesign
 
 https://www.youtube.com/watch?v=517npPWIb8Q&ab_channel=SteveGriffith-Prof3ssorSt3v3
 
+# commad lines
+
+1- commit + push
+2-
+```
+npm run build
+npm run deploy
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
