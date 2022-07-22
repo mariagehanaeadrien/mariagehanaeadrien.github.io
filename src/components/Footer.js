@@ -11,12 +11,12 @@ function Footer() {
         <div className='social-media-wrap'>
             <div className='footer-logo'>
               <Link to='/' className='social-logo'>
-              
+
               </Link>
             </div>
 
           <small className='website-rights_Hanae'>
-          <p> Mariage Adrien & Hanae </p>
+          <p> Mariage Hanae & Adrien   </p>
           <p>  XXX </p>
           </small>
 
