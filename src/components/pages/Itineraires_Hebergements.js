@@ -41,7 +41,7 @@ export default function Itineraires_Hebergements() {
 
              </address>
 
-             <h2>Localisation: Mairie de Saint Médard d’Excideuil </h2>
+             <h2>Mairie de Saint Médard d’Excideuil </h2>
 
              <address>
              <div>
