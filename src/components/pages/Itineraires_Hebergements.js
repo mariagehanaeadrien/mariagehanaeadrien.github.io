@@ -78,7 +78,7 @@ export default function Itineraires_Hebergements() {
 emplacement de camping, gite pour le weekend, etc. Nous avons réalisé le tableau ci-dessous
 pour résumer de leur offre. </p>
 
-<p>  <a href="Ressources/HebergementsAuDomaine.pdf">Offre format pdf</a> </p>
+<p>  <a href="Resources/HebergementsAuDomaine.pdf">Offre format pdf</a> </p>
 
 <h4> Remarques importantes : </h4>
   <p> Si vous souhaitez dormir sur le domaine, nous vous conseillons de réserver assez tôt votre

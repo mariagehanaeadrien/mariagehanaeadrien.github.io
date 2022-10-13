@@ -15,12 +15,12 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-  "nth-check": ">=2.0.1"
-},
+    "nth-check": ">=2.0.1"
+  },
   "homepage": "https://adrienbenamira.github.io/",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
