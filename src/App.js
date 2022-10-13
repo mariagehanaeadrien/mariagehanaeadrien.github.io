@@ -8,7 +8,7 @@ import A_faire_dans_la_region from './components/pages/A_faire_dans_la_region';
 import RSVP from './components/pages/RSVP';
 import Photos_Videos from './components/pages/Photos_Videos';
 import Liste_de_mariage from './components/pages/Liste_de_mariage';
-import Footer from './components/Footer';
+//import Footer from './components/Footer';
 
 function App() {
   return (
@@ -25,7 +25,6 @@ function App() {
             <Route path='/Liste_de_mariage' element={<Liste_de_mariage />} />
             <Route path='/Photos_Videos' element={<Photos_Videos />} />
           </Routes>
-          <Footer />
         </Router>
     </>
   );

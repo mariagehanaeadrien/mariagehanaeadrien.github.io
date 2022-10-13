@@ -1,0 +1,98 @@
+.CustumPage-container {
+  /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+  height: 80vh;
+  width: 100%;
+  display: top;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  object-fit: contain;
+}
+
+
+@font-face {
+   font-family: hanae;
+   src: url("../../hanae/MrsEavesPetiteCaps.woff2");
+}
+
+@font-face {
+  font-family: hanae_ital;
+  src: url("../../hanae_ital/MrsEaves-Italic.woff2");
+}
+
+
+@font-face {
+  font-family: hanae_humble;
+  src: url("../../humble/Humble.woff2");
+}
+
+
+
+.CustumPage-container-title > h1 {
+  color: rgb(0, 0, 0);
+  font-size: 100px;
+  margin-top: 100px;
+  font-family: 'hanae_humble', sans-serif;
+  text-align:center;
+
+}
+
+
+.CustumPage-container > h2 {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  margin-top: 100px;
+  font-family: 'hanae';
+  text-align:center;
+  line-height: 1em;
+}
+
+.CustumPage-container > h3 {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  margin-top: 50px;
+  font-family: 'hanae';
+  text-align:left;
+  line-height: 1em;
+
+}
+
+.CustumPage-container > h4 {
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  margin-top: 50px;
+  font-family: 'hanae';
+  text-align:left;
+  line-height: 1em;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.CustumPage-container > p {
+  margin-top: 0px;
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  font-family: 'hanae_ital';
+  line-height: 1em;
+  margin-bottom: 20px;
+}
+
+.CustumPage-container > img {
+  object-fit: cover;
+  width: 20%;
+  height: 100%;
+  z-index: -1;
+
+}
+
+
+
+address {text-align:left;
+  display: grid;
+    margin-top: 25px;
+  font-family: 'hanae_ital';
+  line-height: 1em;
+  grid-template-columns: auto auto auto ;
+  grid-template-rows: auto ;
+  gap: 10px;
+font-size: 32px;}
