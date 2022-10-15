@@ -8,5 +8,7 @@ export default function RSVP() {
       <div className='CustumPage-container-title'>
         <h1> RSVP </h1>
         </div>
+        <h2>Formulaire à venir... </h2>
+
         </div>)
 }

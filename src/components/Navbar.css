@@ -95,7 +95,7 @@ left:10%;
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 70vh;
+    height: 40vh;
     position: absolute;
     top: 80px;
     left: -100%;
@@ -109,6 +109,7 @@ left:10%;
     opacity: 1;
     transition: all 0.5s ease;
     z-index: 1;
+    margin-top: -0px;
   }
 
   .nav-links {
@@ -122,6 +123,8 @@ left:10%;
     background-color: #fff;
     color: #242424;
     border-radius: 0;
+    text-align: center;
+    margin-top: -10px;
   }
 
   .navbar-logo {

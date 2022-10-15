@@ -40,8 +40,9 @@
 
 .CustumPage-container > h2 {
   color: rgb(0, 0, 0);
-  font-size: 40px;
+  font-size: 50px;
   margin-top: 100px;
+  margin-bottom: 30px;
   font-family: 'hanae';
   text-align:center;
   line-height: 1em;
@@ -54,6 +55,9 @@
   font-family: 'hanae';
   text-align:left;
   line-height: 1em;
+  margin-right: 100px;
+  margin-left: 100px;
+  text-decoration: underline;
 
 }
 
@@ -65,7 +69,8 @@
   text-align:left;
   line-height: 1em;
   font-style: italic;
-  text-decoration: underline;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 .CustumPage-container > p {
@@ -77,7 +82,12 @@
   margin-bottom: 20px;
   margin-right: 100px;
   margin-left: 100px;
+  text-indent: 50px;
 }
+
+
+
+
 
 .CustumPage-container > img {
   object-fit: cover;
