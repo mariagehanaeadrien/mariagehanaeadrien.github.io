@@ -9,18 +9,26 @@ export default function A_faire_dans_la_region() {
       <h1>  À faire dans la région </h1>
     </div>
 
-<p> Le Périgord, région historique correspondant au département de la Dordogne (24), est
+<p> Le Périgord, région historique correspondant à peu près au département de la Dordogne (24), est
 traditionnellement découpé en 4 couleurs :
 </p>
 <span></span><br/><span></span>
+
+
 <p>
-- le Périgord Vert pour ses plaines et forêts verdoyantes</p>
-<p> - le Périgord Blanc en raison de ses sols crayeux et de ses falaises profondément
-entaillées par le lit des rivières</p>
-<p>- le Périgord Pourpre en référence aux vins rouges de cette région viticole ainsi qu’à la
-couleur des vignes à l’automne</p>
-<p>- le Périgord Noir dû au feuillage sombre des yeuses, aussi appelés chênes verts. Les
-alentours nombreux sites historiques et préhistoriques</p>
+- le Périgord Vert pour ses plaines favorables à la culture de céréales et ses forêts verdoyantes
+</p>
+<p>
+- le Périgord Blanc en raison de la couleur de la pierre calcaire abondante dans la vallée de l'Isle
+</p>
+<p>
+- le Périgord Pourpre en référence au vin rouge ainsi qu’à la couleur des vignes à l’automne du vignoble de Bergerac
+</p>
+<p>
+- le Périgord Noir initialement nommé en raison du feuillage des yeuses, de chênes verts très sombres, il est aujourd'hui souvent associé à la truffe de la région de Sarlat
+</p>
+
+
 
 <h2> Activités dans la région </h2>
 
@@ -42,7 +50,7 @@ les jardins et une piscine au panorama exceptionnel. Le “vieux” château qua
 XVIème siècle, et révèle ses salons de réception, ses suites nuptiales, son spa, le tout dans un
 esprit d’une rare authenticité. </p>
 <p> Les terres d’Essendiéras s’étendent sur plus de 300 hectares et offrent une très grande variété
-de paysages. Des vues panoramiques aux petits sentiers forestiers, ils feront la joie du
+de paysages. Des vues panoramiques aux petits sentiers forestiers feront la joie du
 promeneur. </p>
 
 <h2> Activités au domaine </h2>
@@ -50,7 +58,7 @@ promeneur. </p>
 <p>  - Golf </p>
 <p>  - Court de tennis en contre-bas des châteaux </p>
 <p>  - Ile de jeux pour les enfants à proximité des étangs </p>
-<p>  - Spa avec hammam, jacuzzi, sauna, soins et massages au château vieux </p>
+<p>  - Spa avec hammam, jacuzzi, sauna, soins et massages au vieux château </p>
 <p>  - Étangs de pêche </p>
 <p>  - Balades à poney pour les enfants de moins de 12 ans </p>
 <p>  - Terrains de sport : terrain de football, beach-volley et pétanque à proximité des étangs </p>
