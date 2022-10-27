@@ -11,8 +11,10 @@ export default function Programme() {
       <h1>Programme </h1>
       </div>
 
-      <h2>Programme à suivre... </h2>
-      <h2>La journée débutera aux alentours de 15h. </h2>
+      <h2>Programme exacte à suivre... </h2>
+      <h2>Le Vendredi14 Juillet au soir, nous pensons faire un BBQ de bienvenue. </h2>
+      <h2>La journée du mariage débutera aux alentours de 15h le Samedi. </h2>
+      <h2>Le Week-End s'achevera par un Brunch le Dimanche matin.  </h2>
     </div>
 )
 

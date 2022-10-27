@@ -82,6 +82,8 @@ pour résumer leur offre. </p>
 
 <p>  <a href="Resources/HebergementsAuDomaine.pdf">HebergementsAuDomaine.pdf</a> </p>
 
+<p>  <embed src="Resources/HebergementsAuDomaine.pdf" width="800px" height="800px" /> </p>
+
 <p> Vous pouvez voir des photos des logements sur le site du domaine <a href="https://www.essendieras.fr/hebergements/"> Page internet </a> </p>
 
 <h4> Remarque importante </h4>
@@ -103,6 +105,8 @@ logement car les réservations sont également ouvertes au reste du public. Aux 
   <p> Nous avons réalisé une liste indicative avec plusieurs options de logement (hôtels, auberge, chambres d’hôtes, AirBnB) dans les communes avoisinantes. C’est la campagne : vous ne trouverez pas de Uber à la demande. Il vous faudra donc soit désigner un Sam soit réserver un taxi en avance. </p>
 
 <p>  <a href="Resources/HebergementsHorsDomaine.pdf">HebergementsHorsDomaine.pdf</a>  </p>
+
+<p>  <embed src="Resources/HebergementsHorsDomaine.pdf" width="800px" height="800px" /> </p>
 
 
 <div>
