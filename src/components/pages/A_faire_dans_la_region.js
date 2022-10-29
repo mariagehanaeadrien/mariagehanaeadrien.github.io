@@ -1,8 +1,7 @@
 import React from 'react';
 import "../../App.css"
 import './CustumPage.css';
-import map from '../../DordogneFRANCE.png';
-import map2 from '../../DordogneFRANCE.png';
+import map2 from '../../Map.png';
 
 export default function A_faire_dans_la_region() {
   return (
@@ -11,7 +10,7 @@ export default function A_faire_dans_la_region() {
       <h1>  À faire dans la région </h1>
     </div>
 
-    <p> <img src={map} /></p>
+<img src={map2} />
 
 <p> Le Périgord, région historique correspondant à peu près au département de la Dordogne (24), est
 traditionnellement découpé en 4 couleurs :
@@ -32,7 +31,7 @@ traditionnellement découpé en 4 couleurs :
 - le Périgord Noir initialement nommé en raison du feuillage des yeuses, de chênes verts très sombres, il est aujourd'hui souvent associé à la truffe de la région de Sarlat
 </p>
 
-<p> <img src={map2} /></p>
+
 
 <h2> Activités dans la région </h2>
 

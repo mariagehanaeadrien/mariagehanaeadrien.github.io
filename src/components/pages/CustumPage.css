@@ -10,6 +10,7 @@
 }
 
 
+
 @font-face {
    font-family: hanae;
    src: url("../../hanae/MrsEavesPetiteCaps.woff2");
@@ -87,14 +88,68 @@
 
 
 
+.CustumPage-container > center > p {
 
 
-.CustumPage-container > img {
-  object-fit: cover;
-  width: 20%;
+  margin-top: 0px;
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  font-family: 'hanae_ital';
+  line-height: 1em;
+  margin-bottom: 20px;
+  margin-right: 100px;
+  margin-left: 100px;
+  text-indent: 50px;
+
+}
+
+.CustumPage-container > center > h2 {
+
+
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  margin-top: 100px;
+  margin-bottom: 30px;
+  font-family: 'hanae';
+  text-align:center;
+  line-height: 1em;
+
+}
+
+
+.CustumPage-container > center > h3 {
+
+
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  margin-top: 50px;
+  font-family: 'hanae';
+  line-height: 1em;
+  margin-right: 100px;
+  margin-left: 100px;
+  text-decoration: underline;
+
+}
+
+
+
+
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+
+}
+
+embed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
   height: 100%;
-  z-index: -1;
-
 }
 
 

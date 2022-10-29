@@ -33,11 +33,21 @@ function Navbar() {
 
                     <li className='nav-item'>
                       <Link
-                        to='/Itineraires_Hebergements'
+                        to='/Itineraires'
                         className='nav-links'
                         onClick={closeMobileMenu}
                       >
-                        Itinéraires & Hébergements
+                        Localisation & Itinéraires
+                      </Link>
+                    </li>
+
+                    <li className='nav-item'>
+                      <Link
+                        to='/Hebergements'
+                        className='nav-links'
+                        onClick={closeMobileMenu}
+                      >
+                        Hébergements
                       </Link>
                     </li>
 
