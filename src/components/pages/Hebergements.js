@@ -30,11 +30,13 @@ pour résumer leur offre. </p>
 <p> Vous pouvez voir des photos des logements sur le site du domaine <a href="https://www.essendieras.fr/hebergements/"> Page internet </a> </p>
 
 <h3> Remarque importante </h3>
-  <p> Si vous souhaitez dormir sur le domaine, nous vous conseillons de réserver assez tôt votre
-logement car les réservations sont également ouvertes au reste du public. Aux dernières nouvelles, un acompte de 50% est demandé à la réservation et le solde 6 semaines avant le jour J. </p>
-<p> Responsables : Mathieu Waterkeyn, Josefien Bakker </p>
+  <p> Le domaine bloque ses logements pour les invités du mariage jusqu’à fin 2022. Par la suite, les réservations
+seront ouvertes au public.  </p>
+<p>Vous ne pouvez donc pas réserver par leur site internet, seulement par mail ou téléphone.</p>
+<p> Un acompte de 50% est demandé à la réservation et le solde 6 semaines avant le jour J. </p>
+<p> Responsable : Helena Bakker </p>
 <p> Téléphone : +33 (0)5 53 55 34 34</p>
-<p>Courrier électronique :   <a href="mailto:info@essendieras.fr"> info@essendieras.fr </a>  </p>
+<p>Courrier électronique :   <a href="mailto:helena@essendieras.fr"> helena@essendieras.fr </a>  </p>
 
 
 
@@ -49,7 +51,7 @@ logement car les réservations sont également ouvertes au reste du public. Aux 
 
 <p>  <a href="Resources/HebergementsHorsDomaine.pdf">HebergementsHorsDomaine.pdf</a>  </p>
 
-<embed src="Resources/HebergementsHorsDomaine.pdf"  /> 
+<embed src="Resources/HebergementsHorsDomaine.pdf"  />
 
 
 <div>
