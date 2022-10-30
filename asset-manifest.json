@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee8f6387.css",
-    "main.js": "/static/js/main.c60762fb.js",
+    "main.css": "/static/css/main.69813570.css",
+    "main.js": "/static/js/main.47ec074a.js",
     "static/media/output.mp4": "/static/media/output.ad0b5cebe443d79d0fc4.mp4",
     "static/media/Map.png": "/static/media/Map.8b2bb18e9a682e70c518.png",
     "static/media/DordogneFRANCE.png": "/static/media/DordogneFRANCE.e4085cde5373534afed9.png",
@@ -11,11 +11,11 @@
     "static/media/MrsEaves-Italic.woff2": "/static/media/MrsEaves-Italic.41a0af9aa12312adf9b4.woff2",
     "static/media/MrsEavesPetiteCaps.woff2": "/static/media/MrsEavesPetiteCaps.f51f4205c643ea10bb05.woff2",
     "index.html": "/index.html",
-    "main.ee8f6387.css.map": "/static/css/main.ee8f6387.css.map",
-    "main.c60762fb.js.map": "/static/js/main.c60762fb.js.map"
+    "main.69813570.css.map": "/static/css/main.69813570.css.map",
+    "main.47ec074a.js.map": "/static/js/main.47ec074a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee8f6387.css",
-    "static/js/main.c60762fb.js"
+    "static/css/main.69813570.css",
+    "static/js/main.47ec074a.js"
   ]
 }
