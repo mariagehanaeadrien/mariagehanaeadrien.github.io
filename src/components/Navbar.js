@@ -61,15 +61,6 @@ function Navbar() {
                         </Link>
                       </li>
 
-                      <li className='nav-item'>
-                        <Link
-                          to='/RSVP'
-                          className='nav-links'
-                          onClick={closeMobileMenu}
-                        >
-                          RSVP
-                        </Link>
-                      </li>
 
                       <li className='nav-item'>
                         <Link
@@ -77,7 +68,7 @@ function Navbar() {
                           className='nav-links'
                           onClick={closeMobileMenu}
                         >
-                          Liste de mariage
+                          RSVP & Liste de mariage
                         </Link>
                       </li>
 

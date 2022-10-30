@@ -11,14 +11,15 @@ export default function Programme() {
       <h1>Programme </h1>
       </div>
 <center>
-            <p> Programme provisoire. Les horaires sont susceptibles d’être modifiées. </p>
+            <p> Programme provisoire. Les horaires sont susceptibles d’être modifiés. </p>
 
 
       <h2>Vendredi 14 juillet 2023 </h2>
 
 
 <p> Selon le nombre d’invités présents sur place la veille,
-nous pourrons organiser un barbecue de bienvenue. </p>
+nous pensons organiser un barbecue de bienvenue. </p>
+<p> Aidez-nous en repondant à ce petit <a href="https://docs.google.com/forms/d/1UUZughCA-f5XKG46-HAmxWuj7-tdWEug5rBuH6unPdc/prefill">sondage</a>. </p>
 
 
       <h2>Samedi 15 juillet 2023</h2>

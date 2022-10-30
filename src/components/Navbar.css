@@ -47,13 +47,13 @@ left:10%;
 
 .nav-menu {
   display: grid;
-  grid-template-columns: repeat(6, auto);
+  grid-template-columns: repeat(5, auto);
   grid-gap: 0px;
   list-style: none;
   text-align: center;
   width: 70vw;
   justify-content: end;
-  margin-right: 10%;
+  margin-right: -10%;
 }
 
 .nav-item {

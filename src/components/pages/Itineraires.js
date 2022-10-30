@@ -21,6 +21,8 @@ export default function Itineraires() {
 
       <h2>Localisation </h2>
 
+       <img src={map2} class="center"/>
+
       <h3> Domaine d’Essendiéras (<a href="https://www.essendieras.fr/le-domaine-d-essendieras-dordogne/">Lien vers le site du domaine</a>)</h3>
 
 
@@ -60,7 +62,7 @@ export default function Itineraires() {
 
 
 
-             <img src={map2} class="center"/>
+
 
 
 
