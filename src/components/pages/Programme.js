@@ -17,9 +17,9 @@ export default function Programme() {
       <h2>Vendredi 14 juillet 2023 </h2>
 
 
-<p> Selon le nombre d’invités présents sur place la veille,
+<p> Selon le nombre d’invités présents sur place le soir,
 nous pensons organiser un barbecue de bienvenue. </p>
-<p> Aidez-nous en repondant à ce petit <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWWfzKoSpi6MWXU5Hvy1j-TrtmrBCwq_AMSeRnb84kZ3_D4w/viewform?pli=1&usp=pp_url">sondage</a>. </p>
+<p> Aidez-nous en répondant à ce petit <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWWfzKoSpi6MWXU5Hvy1j-TrtmrBCwq_AMSeRnb84kZ3_D4w/viewform?pli=1&usp=pp_url">sondage</a>. </p>
 
 
       <h2>Samedi 15 juillet 2023</h2>
