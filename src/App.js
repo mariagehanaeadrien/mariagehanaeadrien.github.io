@@ -8,7 +8,7 @@ import Hebergements from './components/pages/Hebergements';
 import A_faire_dans_la_region from './components/pages/A_faire_dans_la_region';
 import RSVP from './components/pages/RSVP';
 import Photos_Videos from './components/pages/Photos_Videos';
-import Liste_de_mariage from './components/pages/Liste_de_mariage';
+import RSVP_Liste_de_mariage from './components/pages/RSVP_Liste_de_mariage';
 //import Footer from './components/Footer';
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
             <Route path='/Hebergements' element={<Hebergements/>} />
             <Route path='/A_faire_dans_la_region' element={<A_faire_dans_la_region />} />
             <Route path='/RSVP' element={<RSVP />} />
-            <Route path='/Liste_de_mariage' element={<Liste_de_mariage />} />
+            <Route path='/RSVP_Liste_de_mariage' element={<RSVP_Liste_de_mariage />} />
             <Route path='/Photos_Videos' element={<Photos_Videos />} />
           </Routes>
         </Router>
