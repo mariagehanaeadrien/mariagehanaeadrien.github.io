@@ -64,7 +64,7 @@ function Navbar() {
 
                       <li className='nav-item'>
                         <Link
-                          to='/RSVP_Liste_de_mariage'
+                          to='/RSVP'
                           className='nav-links'
                           onClick={closeMobileMenu}
                         >
