@@ -11,16 +11,15 @@ export default function Programme() {
       <h1>Programme </h1>
       </div>
 <center>
-            <p> Programme provisoire. Les horaires sont susceptibles d’être modifiés. </p>
+
 
 
       <h2>Vendredi 14 juillet 2023 </h2>
 
 
-<p> Selon le nombre d’invités présents sur place le soir,
-nous pensons organiser un barbecue de bienvenue. </p>
-<p> Aidez-nous en répondant à ce petit <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWWfzKoSpi6MWXU5Hvy1j-TrtmrBCwq_AMSeRnb84kZ3_D4w/viewform?pli=1&usp=pp_url">sondage</a>. </p>
+      <h3>19h30 </h3>
 
+      <p>Barbecue </p> <p> Domaine d’Essendiéras </p>
 
       <h2>Samedi 15 juillet 2023</h2>
 
@@ -28,7 +27,7 @@ nous pensons organiser un barbecue de bienvenue. </p>
 
 
 
-<h3> 15h </h3>
+<h3> 15h30 </h3>
 
     <p>Cérémonie civile  </p> <p> Mairie de Saint Médard d’Excideuil </p>
 
@@ -44,9 +43,9 @@ nous pensons organiser un barbecue de bienvenue. </p>
 
   <h2> Dimanche 16 juillet 2023 </h2>
 
+<h3>11h-14h </h3>
 
-
-<p> Un brunch au domaine sera organisé. </p>
+<p>Brunch </p> <p> Clubhouse du Domaine d’Essendiéras </p>
 </center>
 
 <div>
