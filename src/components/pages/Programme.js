@@ -19,7 +19,7 @@ export default function Programme() {
 
       <h3>19h30 </h3>
 
-      <p>Barbecue </p> <p> Domaine d’Essendiéras </p>
+      <p>Barbecue de bienvenue</p> <p> Domaine d’Essendiéras </p>
 
       <h2>Samedi 15 juillet 2023</h2>
 

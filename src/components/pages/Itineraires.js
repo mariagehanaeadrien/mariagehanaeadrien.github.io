@@ -83,9 +83,12 @@ export default function Itineraires() {
 
 <img src={map} class="center"/>
 
+      <h2> Covoiturage </h2>
 
+<p>
 
-
+Pour faciliter l'organisation des déplacements, voici un lien que vous pouvez utiliser pour organiser les covoiturages : <a href="https://docs.google.com/spreadsheets/d/1jGW2Wd2qDlaTit4609CvzCFPG5FuNA2o0E2Xi26puUA/edit?usp=sharing"> [LIEN] </a>. On vous recommande plutôt de venir en voiture, la région étant quand même mal desservie en train.
+</p>
 
 
 <div>
