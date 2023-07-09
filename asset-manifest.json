@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.957b877c.css",
-    "main.js": "/static/js/main.db7d41ab.js",
+    "main.css": "/static/css/main.7157b831.css",
+    "main.js": "/static/js/main.bd9cfe19.js",
     "static/media/output.mp4": "/static/media/output.ad0b5cebe443d79d0fc4.mp4",
     "static/media/Map.png": "/static/media/Map.8b2bb18e9a682e70c518.png",
     "static/media/DordogneFRANCE.png": "/static/media/DordogneFRANCE.e4085cde5373534afed9.png",
     "static/media/essendierasdomaine.jpg": "/static/media/essendierasdomaine.385366d7151ef230968b.jpg",
+    "static/media/DDAY.jpg": "/static/media/DDAY.8dd452a9b6cfcba5a00c.jpg",
     "static/media/Humble.woff2": "/static/media/Humble.231ed313fc314ad128d3.woff2",
+    "static/media/BBQ.jpg": "/static/media/BBQ.0019ea6c82f6b383d783.jpg",
     "static/media/ecusson.png": "/static/media/ecusson.d74c152b26b3b4dfab7d.png",
+    "static/media/Brunch.jpg": "/static/media/Brunch.5b7cb1abf570df895456.jpg",
     "static/media/MrsEaves-Italic.woff2": "/static/media/MrsEaves-Italic.41a0af9aa12312adf9b4.woff2",
     "static/media/MrsEavesPetiteCaps.woff2": "/static/media/MrsEavesPetiteCaps.f51f4205c643ea10bb05.woff2",
     "index.html": "/index.html",
-    "main.957b877c.css.map": "/static/css/main.957b877c.css.map",
-    "main.db7d41ab.js.map": "/static/js/main.db7d41ab.js.map"
+    "main.7157b831.css.map": "/static/css/main.7157b831.css.map",
+    "main.bd9cfe19.js.map": "/static/js/main.bd9cfe19.js.map"
   },
   "entrypoints": [
-    "static/css/main.957b877c.css",
-    "static/js/main.db7d41ab.js"
+    "static/css/main.7157b831.css",
+    "static/js/main.bd9cfe19.js"
   ]
 }
